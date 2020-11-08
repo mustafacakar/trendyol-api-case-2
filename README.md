@@ -1,4 +1,4 @@
-# trendyol-api-case-2 Readme 
+# Trendyol API Case-2
 ##
 Developed with Java and Karate framework.
 
